@@ -1,17 +1,33 @@
 # todo_app
 
-A new Flutter project.
+---
 
-## Getting Started
+## 📸 App Screenshots
 
-This project is a starting point for a Flutter application.
+### 🏠 Home Screen  
+A simple dashboard to access and manage all your activities.
+![Home](screenshots/Screenshot_1744444351.png)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ➕ Add Activity  
+Quickly create a new note with just a tap.
+![Add Activity](screenshots/Screenshot_1744444362.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutter-todo-app" 
+---
+
+### ✍️ Create Activity Screen  
+Write your thoughts or tasks with a smooth, focused writing interface.
+![Create Activities Screen](screenshots/Screenshot_1744444488.png)
+
+---
+
+### 📭 All Activities Screen (Empty State)  
+When no activities are added — clean and minimal.
+![All Activities Screen - Empty](screenshots/Screenshot_1744444355.png)
+
+---
+
+### 📋 All Activities Screen (With Activities)  
+Browse your saved activities in a structured view.
+![All Activities Screen](screenshots/Screenshot_1744444485.png)
