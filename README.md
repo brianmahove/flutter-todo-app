@@ -1,33 +1,28 @@
 # todo_app
 
+A simple and efficient task management app built with Flutter.
+Stay organized by creating, editing, and tracking your daily activities in a clean and intuitive interface.
+
 ---
 
-## 📸 App Screenshots
-
-### 🏠 Home Screen  
+📸 App Screenshots
+🏠 Home Screen
 A simple dashboard to access and manage all your activities.
-![Home](screenshots/Screenshot_1744444351.png)
 
----
-
-### ➕ Add Activity  
+<div align="center"> <img src="screenshots/Screenshot_1744444351.png" width="300"/> </div>
+➕ Add Activity
 Quickly create a new note with just a tap.
-![Add Activity](screenshots/Screenshot_1744444362.png)
 
----
-
-### ✍️ Create Activity Screen  
+<div align="center"> <img src="screenshots/Screenshot_1744444362.png" width="300"/> </div>
+✍️ Create Activity Screen
 Write your thoughts or tasks with a smooth, focused writing interface.
-![Create Activities Screen](screenshots/Screenshot_1744444488.png)
 
----
-
-### 📭 All Activities Screen (Empty State)  
+<div align="center"> <img src="screenshots/Screenshot_1744444488.png" width="300"/> </div>
+📭 All Activities Screen (Empty State)
 When no activities are added — clean and minimal.
-![All Activities Screen - Empty](screenshots/Screenshot_1744444355.png)
 
----
-
-### 📋 All Activities Screen (With Activities)  
+<div align="center"> <img src="screenshots/Screenshot_1744444355.png" width="300"/> </div>
+📋 All Activities Screen (With Activities)
 Browse your saved activities in a structured view.
-![All Activities Screen](screenshots/Screenshot_1744444485.png)
+
+<div align="center"> <img src="screenshots/Screenshot_1744444485.png" width="300"/> </div>
